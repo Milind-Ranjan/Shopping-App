@@ -31,7 +31,7 @@ import androidx.navigation.compose.dialog
 import androidx.navigation.compose.rememberNavController
 import eu.tutorials.myshoppinglistapp.ui.theme.MyShoppingListAppTheme
 
-#Created by Milind Ranjan
+//Created by Milind Ranjan
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
